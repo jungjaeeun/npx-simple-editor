@@ -1,0 +1,39 @@
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+textarea {
+  width: 100%;
+}
+
+.editor_border {
+  border: 1px solid #ddd;
+  border-radius: 2px;
+}
+
+.editor_option_box {
+  padding: 10px;
+  margin-bottom: 6px;
+}
+
+.editor_option_box button,
+.editor_option_box select {
+  margin-right: 10px;
+}
+
+.editor_content_box {
+  resize: none;
+  height: 200px;
+  padding: 10px;
+}
+
+.btn_submit {
+  padding: 10px 40px;
+  background-color: black;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 700;
+  margin-top: 10px;
+}
